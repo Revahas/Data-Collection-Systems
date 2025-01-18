@@ -1,11 +1,11 @@
 # Data-Collection-Systems
 System Requirements
 •	Software Requirements:
-o	Python 3.10 or higher.
-o	Required libraries: seleniumbase, pandas, numpy, matplotlib, scikit-learn, pyaudio, speech_recognition.
-o	A CSV viewer such as Microsoft Excel or LibreOffice Calc.
-o	Internet connection for data collection tasks.
-o	Jupyter Notebook for running and editing the software.
+- Python 3.10 or higher.
+- Required libraries: seleniumbase, pandas, numpy, matplotlib, scikit-learn, pyaudio, speech_recognition.
+- A CSV viewer such as Microsoft Excel or LibreOffice Calc.
+-	Internet connection for data collection tasks.
+- Jupyter Notebook for running and editing the software.
 ________________________________________
 Installation
 1.	Download the Software:
@@ -46,16 +46,4 @@ o	Collect data from at least 10 different individuals for each command.
 •	Output: 
 o	Recorded audio files saved in the audio_data/ directory.
 o	A CSV file named voice_data.csv containing metadata about the recordings.
-________________________________________
-Troubleshooting Tips
-1.	Notebook Not Running:
-o	Ensure Python, Jupyter Notebook, and all dependencies are installed.
-o	Verify that you are in the correct directory.
-2.	Data Not Downloading:
-o	Check your internet connection.
-o	Confirm the specified websites are accessible.
-3.	Audio Recording Issues:
-o	Ensure your microphone is properly connected and functional.
-o	Verify system permissions for microphone access.
-4.	CSV Files Not Opening:
-o	Use a compatible CSV viewer such as Microsoft Excel or LibreOffice Calc.
+
